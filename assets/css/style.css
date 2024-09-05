@@ -73,7 +73,7 @@ img {
 
 .container {
     width: 100%;
-    max-width: 1300px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 0 15px;
 }
@@ -171,8 +171,12 @@ img {
   
   /* Header CSS End */
   
-
-
+  /* Section Heading CSS Start */
+h2.section-heading{
+    font-size: 35px;
+    line-height: 1.5;
+}
+  /* Section Heading CSS End */
 
 /* Banner Section CSS Start */
 .banner {
@@ -245,38 +249,38 @@ img {
 }
 /* Home Page Intro Text CSS End */
 
-/* Home Page Cards CSS Start */
-.home-page-cards {
+/* Home Page Category Cards CSS Start */
+.home-page-category-cards {
     height: 300px;
     overflow: hidden;
     position: relative;
 transition: 0.1s all ease-out;
 }
 
-.home-page-cards:hover {
+.home-page-category-cards:hover {
     transform: translateY(-1px);
-    box-shadow: #bc5aff 0px 10px 10px, #bc5aff 0px 10px 12px;
+    box-shadow: #bc5aff 0px 7px 10px, #bc5aff 0px 7px 12px;
 }
 
-.home-page-cards-image {
+.home-page-category-cards-image {
     height: 100%;
     width: 100%;
     overflow: hidden;
     transition: all 0.3s ease-in-out;
 }
 
-.home-page-cards-image img {
+.home-page-category-cards-image img {
     height: 100%;
     width: 100%;
     object-fit: cover;
     transition: 0.5s all ease-in-out;
 }
 
-.home-page-cards:hover .home-page-cards-image img {
+.home-page-category-cards:hover .home-page-cards-image img {
     transform: scale(1.1);
 }
 
-.home-page-cards-content {
+.home-page-category-cards-content {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -287,7 +291,7 @@ transition: 0.1s all ease-out;
     background-blend-mode: multiply;
 }
 
-.home-page-cards-content a {
+.home-page-category-cards-content a {
     height: 100%;
     width: 100%;
     display: flex;
@@ -296,10 +300,27 @@ transition: 0.1s all ease-out;
     color: #fff;
     text-align: center;
 }
+/* Home Page Category Cards CSS End */
+
+/* Home Page Cards CSS Start */
+.pages-cards-wrapper h2 {
+    color: #fff;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.pages-cards-image {
+    height: 300px;
+    width: 100%;
+    overflow: hidden;
+}
+.pages-cards-image img {
+    height: 100%;
+    width: 100%;
+object-fit: cover;
+}
+
 
 
 /* Home Page Cards CSS End */
-
-
 
 
