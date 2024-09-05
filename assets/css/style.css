@@ -134,7 +134,7 @@ img {
   .main-navbar ul li a:after {
     display: block;
     content: '';
-    border-bottom: solid 1px #fb4f93;
+    border-bottom: solid 1px #bc5aff;
     transition: all 300ms ease-in-out;
     position: absolute;
     left: 0;
@@ -148,10 +148,10 @@ img {
   }
   
   .main-navbar ul li a.active {
-    color: #fb4f93;
+    color: #bc5aff;
   }
   .main-navbar ul li a:hover {
-    color: #fb4f93;
+    color: #bc5aff;
   }
   
   .close-icon {
@@ -160,7 +160,7 @@ img {
   
   .menu-icon {
     display: none;
-    color:#fb4f93;
+    color:#bc5aff;
     width: 30px;
     text-align: right;
     cursor: pointer;
@@ -255,7 +255,7 @@ transition: 0.1s all ease-out;
 
 .home-page-cards:hover {
     transform: translateY(-1px);
-    box-shadow: #fb4f93 0px 10px 10px, #fb4f93 0px 10px 12px;
+    box-shadow: #bc5aff 0px 10px 10px, #bc5aff 0px 10px 12px;
 }
 
 .home-page-cards-image {
@@ -283,7 +283,7 @@ transition: 0.1s all ease-out;
     transform: translate(-50%, -50%);
     height: 100%;
     width: 100%;
-    background-color: rgba(0 0 0/60%);
+    background-color: rgba(0 0 0/50%);
     background-blend-mode: multiply;
 }
 
