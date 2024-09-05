@@ -314,7 +314,8 @@ h2.section-heading {
 /* Home Page Cards CSS Start */
 .pages-cards {
     margin: 20px 5px;
-    box-shadow: #bc5aff 0px 5px 10px 0px;
+    box-shadow: #bc5aff 2px 10px 10px 0px;
+    overflow: hidden;
 }
 
 .pages-cards-wrapper h2 {
@@ -333,11 +334,17 @@ h2.section-heading {
     height: 100%;
     width: 100%;
     object-fit: cover;
+    transition: 0.4s all ease;
+}
+
+.pages-cards:hover .pages-cards-image img {
+    transform: scale(1.1);
 }
 
 .pages-cards-content {
     padding: 20px 10px;
     background-color: #2e2e2e;
+    min-height: 260px;
 }
 
 .pages-cards-text1 h4 {
@@ -350,11 +357,18 @@ h2.section-heading {
 }
 
 .pages-cards-text2 p {
-    color: #fff;
+    color: #bc5aff;
     border: 1px solid #fff;
     display: inline-block;
     padding: 5px 10px;
     border-radius: 4px;
+    font-size: 17px;
+}
+
+.calender {
+    font-size: 17px;
+    margin-right: 5px;
+    color: #fff;
 }
 
 .pages-cards-text3 h4 {
@@ -364,8 +378,10 @@ h2.section-heading {
 
 .cards-btn-box {
     display: inline-flex;
-    gap: 10px;
     margin-top: 20px;
+    width: 100%;
+    justify-content: center;
+    gap: 10px;
 }
 
 .butn {
@@ -382,7 +398,8 @@ h2.section-heading {
     background-color: #bc5aff;
     color: #fff;
 }
-.ticket-book-btn:hover{
+
+.ticket-book-btn:hover {
     box-shadow: #fff 0px 9px 10px -5px, #fff 0px 9px 10px -8px;
 }
 
@@ -390,8 +407,9 @@ h2.section-heading {
     background-color: #fff;
     color: #000;
 }
+
 .hotel-book-btn:hover {
-    box-shadow:#bc5aff 0px 7px 15px -5px, #bc5aff 0px 8px 16px -8px;
+    box-shadow: #bc5aff 0px 7px 15px -5px, #bc5aff 0px 8px 16px -8px;
 }
 
 
