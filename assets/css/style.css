@@ -304,7 +304,7 @@ transition: 0.1s all ease-out;
 
 /* Home Page Cards CSS Start */
 .pages-cards{
-    border: 1px solid #fff;
+    border: 5px solid #bc5aff;
     margin-bottom: 30px;
 }
 
