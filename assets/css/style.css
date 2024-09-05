@@ -303,13 +303,19 @@ transition: 0.1s all ease-out;
 /* Home Page Category Cards CSS End */
 
 /* Home Page Cards CSS Start */
+.pages-cards{
+    border: 1px solid #fff;
+    margin-bottom: 30px;
+}
+
+
 .pages-cards-wrapper h2 {
     color: #fff;
     max-width: 1000px;
     margin: 0 auto;
 }
 .pages-cards-image {
-    height: 300px;
+    height: 320px;
     width: 100%;
     overflow: hidden;
 }
@@ -317,6 +323,13 @@ transition: 0.1s all ease-out;
     height: 100%;
     width: 100%;
 object-fit: cover;
+}
+.pages-cards-content {
+    padding: 20px 10px;
+}
+.pages-cards-text1 h4 {
+    color: #fff;
+    font-size: 20px;
 }
 
 
