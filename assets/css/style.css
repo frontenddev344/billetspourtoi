@@ -250,7 +250,7 @@ img {
     height: 300px;
     overflow: hidden;
     position: relative;
-
+transition: 0.1s all ease-out;
 }
 
 .home-page-cards:hover {
