@@ -326,8 +326,22 @@ object-fit: cover;
 }
 .pages-cards-content {
     padding: 20px 10px;
+    background-color: #2e2e2e;
 }
 .pages-cards-text1 h4 {
+    color: #fff;
+    font-size: 23px;
+}
+.pages-cards-text2{
+    padding: 15px 0;
+}
+.pages-cards-text2 p {
+    color: #fff;
+    border: 1px solid #fff;
+    display: inline-block;
+    padding: 5px 10px;
+}
+.pages-cards-text3 h4 {
     color: #fff;
     font-size: 20px;
 }
