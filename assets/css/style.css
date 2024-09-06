@@ -810,7 +810,7 @@ background-attachment: fixed;
 
 /* Pages Banner CSS Start */
 .pages-banner-image {
-    height:400px;
+    height:450px;
     width: 100%;
     overflow: hidden;
 }
@@ -824,7 +824,7 @@ background-attachment: fixed;
 }
 .pages-banner-text {
     text-align: center;
-    background-color: rgba(0 0 0/80%);
+    background-color: rgba(0 0 0/60%);
 }
 
 .pages-banner-text h1 {
