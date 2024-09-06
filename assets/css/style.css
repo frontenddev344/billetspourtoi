@@ -175,7 +175,7 @@ img {
 
 /* Section Heading CSS Start */
 h2.section-heading {
-    font-size: 35px;
+    font-size: 40px;
     line-height: 1.5;
 }
 
@@ -533,3 +533,83 @@ input.pages-newsletter-input {
 }
 
 /* Why Choose Us CSS Start */
+
+/* Pages FAQ Section CSS Start  */
+.pages-accordion-wrapper h2 {
+    color: #fff;
+}
+.accordion-button::after {
+    flex-shrink: 0;
+    content: "\f067";
+    font-family: "FontAwesome";
+    background-image: none;
+    background-repeat: no-repeat;
+    min-width: 30px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.accordion-button:not(.collapsed)::after {
+    content: "\f068";
+    font-family: "FontAwesome";
+    background-image: none;
+    transform: rotate(0);
+    background: transparent;
+}
+
+.accordion {
+    --bs-accordion-btn-icon-transform: rotate(0);
+}
+
+.accordion-button:not(.collapsed) {
+    background: #9c19f5;
+    box-shadow: none;
+    color: #fff;
+    font-weight: 600;
+}
+
+.accordion-item:first-of-type>.accordion-header .accordion-button {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.accordion-item:last-of-type>.accordion-header .accordion-button.collapsed {
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.accordion-button {
+    color: #fff;
+    font-weight: 600;
+    background: #9c19f5;
+}
+
+.accordion {
+    --bs-accordion-border-color: none;
+}
+
+.accordion-item {
+    margin-bottom: 12px;
+}
+
+.accordion-button:focus {
+    box-shadow: none;
+}
+
+.accordion-item:last-of-type {
+    border-radius: 0;
+}
+
+.accordion-item:first-of-type {
+    border-radius: 0;
+}
+
+.accordion-body {
+    background-color: #fff;
+    font-weight: 500;
+    font-size: 17px;
+    color: #707070;
+    box-shadow: #bc5aff 0px 2px 10px;
+}
+
+/* Pages FAQ Section CSS End  */
