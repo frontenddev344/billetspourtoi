@@ -497,8 +497,7 @@ input.pages-newsletter-input {
     background-image: linear-gradient(to left,
             transparent,
             transparent 50%,
-            #bc5aff 50%,
-            #bc5aff);
+            #bc5aff 50%);
     background-position: 100% 0;
     background-size: 200% 100%;
     transition: all .3s ease-in;
