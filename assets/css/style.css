@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap');
-
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
 
 /* Global CSS Start */
@@ -29,7 +29,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Cinzel Decorative", serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     margin: 0;
 }
@@ -365,7 +365,7 @@ h2.section-heading {
 
 .pages-cards-text1 h4 {
     color: #fff;
-    font-size: 23px;
+    font-size: 25px;
 }
 
 .pages-cards-text2 {
