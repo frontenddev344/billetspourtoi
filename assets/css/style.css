@@ -382,6 +382,12 @@ h2.section-heading {
     border-radius: 4px;
     font-size: 17px;
 }
+.pages-cards-text3 p {
+    color: #fff;
+    font-weight: 400;
+    margin: 15px 0 20px;
+    font-size: 17px;
+}
 
 .calender {
     font-size: 17px;
