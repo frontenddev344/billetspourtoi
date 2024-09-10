@@ -870,6 +870,10 @@ background-attachment: fixed;
 
 
 /* Privacy Policy CSS Start */
+.privacy-policy-group span.heading-like{
+    font-weight:700;
+    color:#6e8eec
+}
 .privacy-policy-group {
     margin-bottom: 30px;
     padding: 20px;
@@ -887,7 +891,7 @@ background-attachment: fixed;
   .privacy-policy-group h4 {
     font-size: 18px;
     margin-bottom: 10px;
-    color: #6e8eec;
+    color:#fff;
 }
   
   .privacy-policy-group p {
