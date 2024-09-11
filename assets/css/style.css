@@ -127,7 +127,7 @@ img {
     text-decoration: none;
     text-transform: capitalize;
     line-height: normal;
-    font-weight: 600;
+    font-weight: 500;
     position: relative;
 }
 
@@ -306,6 +306,9 @@ h2.section-heading {
     background-color: rgba(0 0 0/50%);
     background-blend-mode: multiply;
 }
+.home-page-category-cards-content h3 {
+    font-size: 30px;
+}
 
 .home-page-category-cards-content a {
     height: 100%;
@@ -362,8 +365,8 @@ h2.section-heading {
 
 .pages-cards-wrapper h2 {
     color: #fff;
-    max-width: 1000px;
     margin: 0 auto;
+    max-width: 930px;
 }
 
 .pages-cards-image {
@@ -485,7 +488,9 @@ h2.section-heading {
     background-color: transparent;
     backdrop-filter: blur(20px);
 }
-
+.pages-newsletter-wrapper h3 {
+padding: 0 10px;
+}
 .pages-newsletter-input-wrapper {
     padding-top: 20px;
     margin: 0 auto;
