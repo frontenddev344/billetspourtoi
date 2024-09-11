@@ -11,6 +11,17 @@
     .home-page-category-cards-content h3 {
         font-size: 27px;
     }
+    .cards-btn-box {
+        gap: 5px;
+        justify-content: flex-start;
+    }
+    .butn {
+        padding: 9px 5px;
+    }
+    .butn {
+        font-size: 14px;
+    }
+
 
     .why-choose-us-cards {
         min-height: 390px;
@@ -37,8 +48,7 @@
     .terms-condtions-group p {
         font-size: 13px;
     }
-
-
+    
 
 
 
@@ -110,6 +120,10 @@
     }
 
     .pages-cards-text3 p {
+        font-size: 15px;
+    }
+    .ticket-book-btn,
+    .hotel-book-btn {
         font-size: 15px;
     }
 
