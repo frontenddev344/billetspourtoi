@@ -86,7 +86,7 @@
     }
 
     .pages-cards-text3 p {
-        font-size: 16px;
+        font-size: 15px;
     }
 
     .odd-pages-cards .pages-cards-content {
@@ -248,9 +248,9 @@
     .footer .footer-items ul li a {
         font-size: 14px;
     }
-
-
-
+    .pages-cards-text3 p {
+        font-size: 15px;
+    }
     .copyright p {
         font-size: 14px;
     }
@@ -317,7 +317,7 @@
     }
 
     .pages-cards-text3 p {
-        font-size: 15px;
+        font-size: 14px;
     }
 
     input.pages-newsletter-input {
@@ -459,7 +459,7 @@
     }
 
     .pages-cards-text3 p {
-        font-size: 14px;
+        font-size: 13px;
     }
 
     .hotel .odd-pages-cards .pages-cards-content {
@@ -515,7 +515,7 @@
     }
     .footer-items h3 {
         font-size: 23px;
-        text-align: left !important;
+
     }
     .footer .footer-items ul li a {
         font-size: 15px;
@@ -526,10 +526,12 @@
     .social-icons {
         justify-content: flex-start;
     }
-
-
-
-
+    .disclaimer-wrapper {
+        padding: 20px 10px;    
+    }
+    .footer-links {
+        margin-left: 0;
+    }
     .copyright p {
         font-size: 12px;
     }

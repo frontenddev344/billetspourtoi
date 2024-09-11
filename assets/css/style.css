@@ -743,6 +743,9 @@ background-attachment: fixed;
     margin-bottom: 12px;
     color: #fff;
 }
+.footer-items{
+    width: 30%;
+}
 
 .footer-items .social-icons {
     width: 100%;
