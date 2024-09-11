@@ -917,6 +917,9 @@ background-attachment: fixed;
     border-radius: 8px;
     overflow: hidden;
   }
+  .privacy-policy-group:last-child,.terms-condtions-group:last-child {
+    margin-bottom: 0px;
+  }
   
   .privacy-policy-group h3 ,.terms-condtions-group h3 {
     font-size: 30px;
