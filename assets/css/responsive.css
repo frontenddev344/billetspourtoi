@@ -60,6 +60,12 @@
     .pages-cards-image {
         height: 270px;
     }
+    .pages-cards-text3 p {
+        font-size: 16px;
+    }
+    .odd-pages-cards .pages-cards-content {
+        min-height: 290px;
+    }
  
 }
 @media screen and (max-width:767px){
@@ -97,6 +103,10 @@
 .pages-cards-content {
     min-height: 250px;
 }
+.hotel .odd-pages-cards .pages-cards-content {
+    min-height: 0px;
+}   
+
 
     
 
@@ -146,6 +156,9 @@
     .pages-cards-content {
         min-height: 235px;
     }
+    .pages-cards-text3 p {
+        font-size: 15px;
+   }
 
 }
 @media screen and (max-width:480px){
@@ -197,5 +210,11 @@
     }
     .ticket-book-btn, .hotel-book-btn {
         font-size: 12px;
+    }
+    .pages-cards-text3 p {
+         font-size: 14px;
+    }
+    .hotel .odd-pages-cards .pages-cards-content {
+        min-height: 0px;
     }
 }
