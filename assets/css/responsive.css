@@ -587,9 +587,9 @@
     .footer-items:last-child {
            margin-bottom: 0px;
     }
-    .footer-items h3 {
+    .footer .footer-items h3 {
         font-size: 23px;
-
+text-align: leftdone;
     }
     .footer .footer-items ul li a {
         font-size: 15px;

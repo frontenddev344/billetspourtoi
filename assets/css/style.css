@@ -742,6 +742,10 @@ background-attachment: fixed;
     font-weight: 700;
     margin-bottom: 12px;
     color: #fff;
+    text-align: center;
+}
+.footer-links h3 {
+    text-align: left;
 }
 .footer-items{
     width: 30%;
