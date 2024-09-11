@@ -107,6 +107,9 @@
     .accordion-body {
         font-size: 15px;
     }
+    .disclaimer-wrapper h3 {
+        font-size: 29px;
+    }
 }
 
 @media screen and (max-width:767px) {
@@ -203,6 +206,9 @@
 
     .accordion-body {
         font-size: 15px;
+    }
+    .disclaimer-wrapper h3 {
+        font-size: 27px;
     }
 
 
@@ -312,6 +318,9 @@
 
     .accordion-body {
         font-size: 14px;
+    }
+    .disclaimer-wrapper h3 {
+        font-size: 25px;
     }
 
 }
@@ -423,5 +432,8 @@
 
     .accordion-body {
         font-size: 13px;
+    }
+    .disclaimer-wrapper h3 {
+        font-size: 23px;
     }
 }
