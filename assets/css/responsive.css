@@ -11,22 +11,30 @@
     .home-page-category-cards-content h3 {
         font-size: 27px;
     }
+
     .why-choose-us-cards {
         min-height: 390px;
     }
+
     .footer-connect h3 {
         font-size: 27px;
         max-width: 310px;
         margin: 0 auto;
     }
-    /* Other Pages CSS Start */
-.privacy-policy-group h3, .terms-condtions-group h3 {
-    font-size: 22px;}
 
-    .privacy-policy-group h4, .terms-condtions-group h4 {
+    /* Other Pages CSS Start */
+    .privacy-policy-group h3,
+    .terms-condtions-group h3 {
+        font-size: 22px;
+    }
+
+    .privacy-policy-group h4,
+    .terms-condtions-group h4 {
         font-size: 16px;
     }
-    .privacy-policy-group p, .terms-condtions-group p {
+
+    .privacy-policy-group p,
+    .terms-condtions-group p {
         font-size: 13px;
     }
 
@@ -34,7 +42,7 @@
 
 
 
-/* Other Pages CSS End */
+    /* Other Pages CSS End */
 }
 
 @media screen and (max-width:991px) {
@@ -129,6 +137,7 @@
     .accordion-body {
         font-size: 16px;
     }
+
     .accordion-button {
         font-size: 16px;
     }
@@ -136,43 +145,57 @@
     .accordion-body {
         font-size: 15px;
     }
+
     .disclaimer-wrapper h3 {
         font-size: 29px;
     }
+
     .copyright p {
         font-size: 15px;
     }
+
     .footer-items {
         width: 30%;
     }
+
     .footer-items h3 {
         font-size: 25px;
     }
+
     .footer .footer-items ul li a {
         font-size: 16px;
     }
+
     .footer-items h3 {
         font-size: 25px;
     }
+
     /* Other Pages CSS Start */
-    .privacy-policy-group h3, .terms-condtions-group h3 {
-        font-size: 28px;}
-    
-        .privacy-policy-group h4, .terms-condtions-group h4 {
-            font-size: 19px;
-        }
-        .privacy-policy-group p, .terms-condtions-group p {
-            font-size: 16px;
-        }
-        .privacy-policy-group ul li, .terms-condtions-group ul li {
-            font-size: 16px;
-        }
+    .privacy-policy-group h3,
+    .terms-condtions-group h3 {
+        font-size: 28px;
+    }
+
+    .privacy-policy-group h4,
+    .terms-condtions-group h4 {
+        font-size: 19px;
+    }
+
+    .privacy-policy-group p,
+    .terms-condtions-group p {
+        font-size: 16px;
+    }
+
+    .privacy-policy-group ul li,
+    .terms-condtions-group ul li {
+        font-size: 16px;
+    }
 
 
 
 
-/* Other Pages CSS End */
-    
+    /* Other Pages CSS End */
+
 }
 
 @media screen and (max-width:767px) {
@@ -256,6 +279,7 @@
     .accordion-body {
         font-size: 15px;
     }
+
     .accordion-button {
         font-size: 14px;
     }
@@ -263,6 +287,7 @@
     .accordion-body {
         font-size: 13px;
     }
+
     .accordion-button {
         font-size: 15px;
     }
@@ -270,42 +295,58 @@
     .accordion-body {
         font-size: 15px;
     }
+
     .disclaimer-wrapper h3 {
         font-size: 27px;
     }
+
     .disclaimer-wrapper p {
         font-size: 15px;
     }
-      .footer-items h3 {
+
+    .footer-items h3 {
         font-size: 22px;
     }
+
     .footer .footer-items ul li a {
         font-size: 14px;
     }
+
     .pages-cards-text3 p {
         font-size: 15px;
     }
+
     .copyright p {
         font-size: 14px;
     }
-/* Other Pages CSS Start */
-.privacy-policy-group h3, .terms-condtions-group h3 {
-    font-size: 25px;}
 
-    .privacy-policy-group h4, .terms-condtions-group h4 {
+    /* Other Pages CSS Start */
+    .privacy-policy-group h3,
+    .terms-condtions-group h3 {
+        font-size: 25px;
+    }
+
+    .privacy-policy-group h4,
+    .terms-condtions-group h4 {
         font-size: 18px;
     }
-    .privacy-policy-group p, .terms-condtions-group p {
+
+    .privacy-policy-group p,
+    .terms-condtions-group p {
         font-size: 15px;
     }
-    .privacy-policy-group ul li, .terms-condtions-group ul li {
+
+    .privacy-policy-group ul li,
+    .terms-condtions-group ul li {
         font-size: 15px;
+    }
+    .privacy-policy-group p a, .terms-condtions-group p a {
+        font-size: 16px;
     }
 
 
 
-
-/* Other Pages CSS End */
+    /* Other Pages CSS End */
 
 
 
@@ -408,6 +449,7 @@
     .accordion-body {
         font-size: 14px;
     }
+
     .accordion-button {
         font-size: 14px;
         padding: 16px 12px;
@@ -416,53 +458,72 @@
     .accordion-body {
         font-size: 14px;
     }
+
     .disclaimer-wrapper h3 {
         font-size: 25px;
     }
+
     .disclaimer-wrapper p {
         font-size: 14px;
     }
+
     .copyright p {
         font-size: 13px;
     }
+
     .lg-btm a img {
         max-width: 230px;
     }
+
     .logo-bottom {
         width: 100%;
         margin-bottom: 30px;
     }
-    .footer-connect,   .footer-links {
+
+    .footer-connect,
+    .footer-links {
         width: 45%;
     }
-    .footer-links{
+
+    .footer-links {
         margin-left: 20px;
     }
+
     .footer-items h3 {
         font-size: 23px;
     }
+
     .footer .footer-items ul li a {
         font-size: 15px;
     }
 
     /* Other Pages CSS Start */
-.privacy-policy-group h3, .terms-condtions-group h3 {
-    font-size: 22px;}
+    .privacy-policy-group h3,
+    .terms-condtions-group h3 {
+        font-size: 22px;
+    }
 
-    .privacy-policy-group h4, .terms-condtions-group h4 {
+    .privacy-policy-group h4,
+    .terms-condtions-group h4 {
         font-size: 17px;
     }
-    .privacy-policy-group p, .terms-condtions-group p {
+
+    .privacy-policy-group p,
+    .terms-condtions-group p {
         font-size: 14px;
     }
-    .privacy-policy-group ul li, .terms-condtions-group ul li {
+
+    .privacy-policy-group ul li,
+    .terms-condtions-group ul li {
         font-size: 14px;
+    }
+    .privacy-policy-group p a, .terms-condtions-group p a {
+        font-size: 15px;
     }
 
 
 
-
-/* Other Pages CSS End */
+    /* Other Pages CSS End */
 }
 
 @media screen and (max-width:480px) {
@@ -573,59 +634,78 @@
     .accordion-body {
         font-size: 13px;
     }
+
     .disclaimer-wrapper h3 {
         font-size: 23px;
     }
+
     .disclaimer-wrapper p {
         font-size: 13px;
     }
+
     .footer-items {
         width: 100%;
         margin-bottom: 30px;
         text-align: left;
     }
+
     .footer-items:last-child {
-           margin-bottom: 0px;
+        margin-bottom: 0px;
     }
+
     .footer .footer-items h3 {
         font-size: 23px;
-text-align: left;
-margin: 0;
+        text-align: left;
+        margin: 0;
     }
+
     .footer .footer-items ul li a {
         font-size: 15px;
     }
+
     .lg-btm a img {
         max-width: 200px;
     }
+
     .social-icons {
         justify-content: flex-start;
     }
+
     .disclaimer-wrapper {
-        padding: 20px 10px;    
+        padding: 20px 10px;
     }
+
     .footer-links {
         margin-left: 0;
     }
+
     .copyright p {
         font-size: 12px;
     }
 
-/* Other Pages CSS Start */
-.privacy-policy-group, .terms-condtions-group {
-    padding: 20px 12px;
-}
-.privacy-policy-group h3, .terms-condtions-group h3 {
-    font-size: 20px;
-}
+    /* Other Pages CSS Start */
+    .privacy-policy-group,
+    .terms-condtions-group {
+        padding: 20px 12px;
+    }
 
-    .privacy-policy-group h4, .terms-condtions-group h4 {
+    .privacy-policy-group h3,
+    .terms-condtions-group h3 {
+        font-size: 20px;
+    }
+
+    .privacy-policy-group h4,
+    .terms-condtions-group h4 {
         font-size: 16px;
     }
-    .privacy-policy-group p, .terms-condtions-group p {
+
+    .privacy-policy-group p,
+    .terms-condtions-group p {
         font-size: 13px;
     }
-    .privacy-policy-group ul li, .terms-condtions-group ul li {
+
+    .privacy-policy-group ul li,
+    .terms-condtions-group ul li {
         font-size: 13px;
     }
 
@@ -633,5 +713,5 @@ margin: 0;
 
 
 
-/* Other Pages CSS End */
+    /* Other Pages CSS End */
 }
