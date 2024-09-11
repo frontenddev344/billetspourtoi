@@ -1,3 +1,12 @@
+@media screen and (max-width:1400px) {
+    .footer-items h3 {
+        max-width: 380px;
+        margin: 0 auto;
+    }
+
+}
+
+
 @media screen and (max-width:1200px) {
     .home-page-category-cards-content h3 {
         font-size: 27px;
@@ -5,8 +14,10 @@
     .why-choose-us-cards {
         min-height: 390px;
     }
-    .footer-items h3 {
+    .footer-connect h3 {
         font-size: 27px;
+        max-width: 310px;
+        margin: 0 auto;
     }
 }
 
