@@ -491,7 +491,6 @@ h2.section-heading {
 .pages-newsletter-wrapper {
     text-align: center;
     padding: 30px 0;
-    border: 5px solid #fff;
     background-color: transparent;
     backdrop-filter: blur(20px);
 }
