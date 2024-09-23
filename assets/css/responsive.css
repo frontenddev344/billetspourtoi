@@ -70,7 +70,10 @@
 
 
 
-
+    .main-navbar ul li a {
+        padding: 10px 6px;
+        font-size: 14px;
+    }
     /* Other Pages CSS End */
 }
 
