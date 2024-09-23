@@ -790,7 +790,9 @@ background-attachment: fixed;
     width: 100%;
 }
 
-
+.ssl-certificate img {
+    max-width: 120px;
+}
 
 .copyright {
     padding: 15px 0;
