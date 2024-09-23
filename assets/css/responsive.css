@@ -32,20 +32,23 @@
         max-width: 310px;
         margin: 0 auto;
     }
+    .pages-banner-text h1{
+        font-size: 50px;
+    }
 
     /* Other Pages CSS Start */
     .privacy-policy-group h3,
-    .terms-condtions-group h3 {
+    .terms-condtions-group h3,.personal-information-group h3,.return-refund-group h3 {
         font-size: 22px;
     }
 
     .privacy-policy-group h4,
-    .terms-condtions-group h4 {
+    .terms-condtions-group h4,.personal-information-group h4,.return-refund-group h4 {
         font-size: 16px;
     }
 
     .privacy-policy-group p,
-    .terms-condtions-group p {
+    .terms-condtions-group p ,.personal-information-group p,.return-refund-group p {
         font-size: 13px;
     }
     
@@ -183,25 +186,31 @@
     .footer-items h3 {
         font-size: 25px;
     }
+    .pages-banner-text h1{
+        font-size: 45px;
+    }
+    .privacy-policy-group p, .terms-condtions-group p, .personal-information-group p {
+        font-size: 15px;
+    }
 
     /* Other Pages CSS Start */
     .privacy-policy-group h3,
-    .terms-condtions-group h3 {
+    .terms-condtions-group h3,.personal-information-group h3 ,.return-refund-group h3{
         font-size: 28px;
     }
 
     .privacy-policy-group h4,
-    .terms-condtions-group h4 {
+    .terms-condtions-group h4,.personal-information-group h4 ,.return-refund-group h4 {
         font-size: 19px;
     }
 
     .privacy-policy-group p,
-    .terms-condtions-group p {
+    .terms-condtions-group p,.personal-information-group p ,.return-refund-group p {
         font-size: 16px;
     }
 
     .privacy-policy-group ul li,
-    .terms-condtions-group ul li {
+    .terms-condtions-group ul li ,.personal-information-group ul li,.return-refund-group ul li{
         font-size: 16px;
     }
 
@@ -342,30 +351,34 @@
     .copyright p {
         font-size: 14px;
     }
+    .pages-banner-text h1{
+        font-size: 40px;
+    }
+
 
     /* Other Pages CSS Start */
     .privacy-policy-group h3,
-    .terms-condtions-group h3 {
+    .terms-condtions-group h3 ,.personal-information-group h3,.return-refund-group h3{
         font-size: 25px;
     }
 
     .privacy-policy-group h4,
-    .terms-condtions-group h4 {
+    .terms-condtions-group h4 ,.personal-information-group h4,.return-refund-group h4 {
         font-size: 18px;
     }
 
     .privacy-policy-group p,
-    .terms-condtions-group p {
+    .terms-condtions-group p ,.personal-information-group p,.return-refund-group p{
         font-size: 15px;
     }
 
     .privacy-policy-group ul li,
-    .terms-condtions-group ul li {
+    .terms-condtions-group ul li,.personal-information-group ul li,.return-refund-group ul li {
         font-size: 15px;
     }
 
     .privacy-policy-group p a,
-    .terms-condtions-group p a {
+    .terms-condtions-group p a,.personal-information-group p a ,.return-refund-group p a{
         font-size: 16px;
     }
 
@@ -535,30 +548,36 @@
     .footer .footer-items ul li a {
         font-size: 15px;
     }
+    .pages-banner-text h1{
+        font-size: 33px;
+    }
 
     /* Other Pages CSS Start */
     .privacy-policy-group h3,
-    .terms-condtions-group h3 {
+    .terms-condtions-group h3,
+    .personal-information-group h3 {
         font-size: 22px;
     }
 
     .privacy-policy-group h4,
-    .terms-condtions-group h4 {
+    .terms-condtions-group h4,
+    .personal-information-group h4 {
         font-size: 17px;
     }
 
-    .privacy-policy-group p,
-    .terms-condtions-group p {
+    .privacy-policy-group p, .terms-condtions-group p, .personal-information-group p ,.return-refund-group p{
         font-size: 14px;
     }
 
     .privacy-policy-group ul li,
-    .terms-condtions-group ul li {
+    .terms-condtions-group ul li,
+    .personal-information-group ul li ,.return-refund-group ul li {
         font-size: 14px;
     }
 
     .privacy-policy-group p a,
-    .terms-condtions-group p a {
+    .terms-condtions-group p a,
+    .personal-information-group p a ,.return-refund-group p a {
         font-size: 15px;
     }
 
@@ -593,6 +612,9 @@
 
     .banner-text h1 {
         font-size: 35px;
+    }
+    .pages-banner-text h1{
+        font-size: 30px;
     }
 
     .pages-intro-text-wrapper p {
@@ -737,27 +759,29 @@
 
     /* Other Pages CSS Start */
     .privacy-policy-group,
-    .terms-condtions-group {
+    .terms-condtions-group,
+    .personal-information-group ,.return-refund-group {
         padding: 20px 12px;
     }
 
     .privacy-policy-group h3,
-    .terms-condtions-group h3 {
+    .terms-condtions-group h3,
+    .personal-information-group h3 ,.return-refund-group h3 {
         font-size: 20px;
     }
 
     .privacy-policy-group h4,
-    .terms-condtions-group h4 {
+    .terms-condtions-group h4 ,.personal-information-group h4,.return-refund-group h4{
         font-size: 16px;
     }
 
     .privacy-policy-group p,
-    .terms-condtions-group p {
+    .terms-condtions-group p ,.personal-information-group p ,.return-refund-group p{
         font-size: 13px;
     }
 
     .privacy-policy-group ul li,
-    .terms-condtions-group ul li {
+    .terms-condtions-group ul li ,.personal-information-group ul li ,.return-refund-group ul li{
         font-size: 13px;
     }
 
