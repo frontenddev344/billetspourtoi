@@ -1035,3 +1035,153 @@ background-attachment: fixed;
   }
   
   /* Cookies CSS End */
+
+  /* Contact Form CSS Start */
+  .form-section {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.form-image {
+    width: 40%;
+    overflow: hidden;
+}
+
+.form-image img {
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+}
+
+.form-container {
+    width: 60%;
+    padding: 20px;
+    background-image: url("../images/form-bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgba(0 0 0/50%);
+    background-blend-mode: multiply;
+}
+.form-wrapper {
+    height: 100%;
+    width: 100%;
+}
+
+#contact {
+    background-image: url("../images/form-bg.svg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 25px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    height: 100%;
+}
+
+#contact h3 {
+    display: block;
+    font-size: 30px;
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+
+#contact h4 {
+    margin: 5px 0 15px;
+    display: block;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+fieldset {
+    border: medium none !important;
+    margin: 0 0 10px;
+    min-width: 100%;
+    padding: 0;
+    width: 100%;
+}
+
+#contact input[type="text"],
+#contact input[type="email"],
+#contact input[type="tel"],
+#contact input[type="url"],
+#contact textarea,
+#contact select ,
+#contact button[type="submit"]{
+    width: 80%;
+    border: 1px solid #ccc;
+    background: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+#contact input[type="text"]:hover,
+#contact input[type="email"]:hover,
+#contact input[type="tel"]:hover,
+#contact input[type="url"]:hover,
+#contact textarea:hover,
+#contact select:hover {
+    -webkit-transition: border-color 0.3s ease-in-out;
+    -moz-transition: border-color 0.3s ease-in-out;
+    transition: border-color 0.3s ease-in-out;
+    border: 1px solid #aaa;
+}
+
+
+#contact textarea {
+    height: 100px;
+    max-width: 100%;
+    resize: none;
+}
+
+#contact select {
+    max-width: 100%;
+    color: #888;
+    outline: none;
+}
+
+#contact button[type="submit"] {
+    cursor: pointer;
+    border: none;
+    background: linear-gradient(93.12deg, #9c19f5 5.88%,#bc5aff 94.33%);
+    color: #fff;
+    margin: 0 0 5px;
+    width:25%;
+    padding: 15px 30px;
+    font-family: "Raleway", sans-serif;
+    font-size: 17px;
+    transition: 0.4s all ease-in-out;
+}
+
+#contact button[type="submit"]:hover {
+    box-shadow: #fff 0px 7px 15px 0px;
+}
+
+#contact button[type="submit"]:active {
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.copyright {
+    text-align: center;
+}
+
+#contact input:focus,
+#contact textarea:focus {
+    outline: 0;
+    border: 1px solid #aaa;
+}
+
+::-webkit-input-placeholder,
+::-webkit-select-placeholder {
+    color: #888;
+}
+
+:-moz-placeholder {
+    color: #888;
+}
+
+:-ms-input-placeholder {
+    color: #888;
+}
+  /* Contact Form CSS Start */
