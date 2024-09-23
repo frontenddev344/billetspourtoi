@@ -752,9 +752,6 @@
     }
     /* Other Pages CSS End */
       /* Contact Form CSS Start */
-  .contact-us-group h3 {
-    font-size: 40px;
-  }
 
   .contact-us-group p,
   .contact-us-group ul li {
@@ -962,7 +959,8 @@
     .terms-condtions-group,
     .personal-information-group,
     .return-refund-group .contact-us-group,
-    .about-us-group {
+    .about-us-group
+    {
         padding: 20px 12px;
     }
 
@@ -1012,11 +1010,6 @@
   .form-container {
     padding: 30px 5px;
   }
-
-  .contact-us-group h3 {
-    font-size: 35px;
-  }
-
   .contact-us-group p,
   .contact-us-group ul li {
     font-size: 13px;
